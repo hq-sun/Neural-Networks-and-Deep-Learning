@@ -1,2 +1,2 @@
 # Neural Networks and  Deep Learning
- Coursera - Andrew Ng's Class
+ My assignment on Andrew Ng's Class - Coursera
